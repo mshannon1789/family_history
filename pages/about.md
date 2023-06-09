@@ -8,20 +8,16 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid="demo_058" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection" %}
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+Hi, my name is Michelle! My grandma was Iris Iralene Shepherd and my grandpa was Verne Wilbur Shannon. As a kid, I always loved history. I was enamored with WWII documentaries, coin collecting, history channel shows about unearthing ancient Egyptian mummies - I loved all of it. My aunt Diane had this huge chest in her house full of papers, photographs, and artifacts from the Shannon side of the family and when I was growing up, I always wanted to go through the chest of hidden historical treasures. On the rare occasion that we did go through it, my little brain would fire on all cylinders - the items right in front of me, that I held in my hand, told stories about people and times long ago, and people who were related to ME! 
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+Years later, I would go on to college and earn a Bachelor and Master in history before going to work in state and academic archives professionally. I work to make digital collections all the time, and to connect people with whatever history or research they’re looking for, for whatever reason.
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+I’m not the only one in my immediate family to love history. My aunt Diane not only kept our family materials safe, she also did a TON (and I really mean a ton) of research over the years, tracing our lineage all the way back to Ireland. Without her passion and hard work, this digital collection wouldn’t exist.
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+I’m really proud of this multi-generational project that blends so many people’s interests, talents, and dedication to preserving our story. While we are not the same people who came before us and we can’t be beholden to their choices, their lives can help us understand ourselves, and the world, a little better. It’s important to know where we came from while trekking forward into where we’re going.
